@@ -2,3 +2,7 @@
 #!/bin/bash
 echo "School"
 
+*echo "ALX"
+* echo "School"
+*echo "School"
+
